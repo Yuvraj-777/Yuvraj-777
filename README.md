@@ -35,7 +35,7 @@ Tools:        Git • Linux • Bash
 
 ![Skills](https://github-widgetbox.vercel.app/api/skills?languages=html,css,javascript,nodejs,python,java,php,mongodb,mysql,linux,git,tailwindcss,bash&theme=darkmode)
 
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Yuvraj-777&theme=dark&hide_border=true)
+![GitHub Streak]()
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj-777&layout=compact&theme=dracula)
 
