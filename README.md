@@ -14,7 +14,7 @@ Full-stack developer with a passion for building scalable web applications and s
 
 ## 💻 Tech Stack
 ```text
-Frontend:     HTML5 • CSS3 • Tailwind CSS • JavaScript (ES6+)
+Frontend:     HTML5 • CSS3 • Tailwind CSS • JavaScript (ES6+) • React
 Backend:      Node.js • Python • Java • PHP
 Database:     MongoDB • MySQL
 Tools:        Git • Linux • Bash
@@ -33,7 +33,7 @@ Tools:        Git • Linux • Bash
 
 ![Profile Stats](https://github-widgetbox.vercel.app/api/profile?username=Yuvraj-777&data=followers,repositories,stars,commits&theme=darkmode)
 
-![Skills](https://github-widgetbox.vercel.app/api/skills?languages=html,css,javascript,nodejs,python,java,php,mongodb,mysql,linux,git,tailwindcss,bash&theme=darkmode)
+![Skills](https://github-widgetbox.vercel.app/api/skills?languages=html,css,javascript,nodejs,python,java,php,mongodb,mysql,linux,react,git,tailwindcss,bash&theme=darkmode)
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Yuvraj-777&theme=dark&hide_border=true&cache_bust=2)
 
