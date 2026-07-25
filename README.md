@@ -17,7 +17,7 @@ Full-stack developer with a passion for building scalable web applications and s
 Frontend:     HTML5 • CSS3 • Tailwind CSS • JavaScript (ES6+) • React
 Backend:      Node.js • Python • Java 
 Database:     MongoDB • MySQL
-Tools:        Git • Linux • Bash • Markdown
+Tools:        Git • Linux • Bash • Markdown • Docker
 ```
 
 ## 🔭 Current Focus
